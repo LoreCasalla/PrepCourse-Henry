@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba de modulo 2 del PrepCourse de Henry
+Este es una prueba de como crfear mi repositorio y descargarlo a mi escritorio loca
